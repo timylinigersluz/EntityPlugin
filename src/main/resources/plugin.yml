@@ -1,0 +1,4 @@
+name: EntityPlugin
+version: '${project.version}'
+main: ch.ksrminecraft.entityplugin.EntityPlugin
+api-version: '1.20'
